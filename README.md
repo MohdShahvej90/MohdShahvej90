@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MohdShahvej90
-- 👀 I’m interested in ...web developer
+- 👀 I’m interested in ...web developer , Data Analysis
 - 🌱 I’m currently learning ...Master of Computer Applications
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...[saif.shavej@gmail.com]
